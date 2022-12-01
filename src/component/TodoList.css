@@ -1,0 +1,14 @@
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.prevBox {
+  font-size: 14pt;
+  width: 130px;
+  height: 140px;
+  border: 2px solid green;
+  border-radius: 10px;
+  float: left;
+  margin: 10px;
+}

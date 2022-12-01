@@ -1,0 +1,9 @@
+.itemBox {
+  font-size: 14pt;
+  margin: 10px;
+  width: 130px;
+  height: 140px;
+  border: 2px solid green;
+  border-radius: 10px;
+  float: left;
+}
